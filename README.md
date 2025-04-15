@@ -2,6 +2,8 @@
 
 Welcome to the **Mastering ASP.NET Core Testing** repository! 🎉 This repository is designed to accompany my YouTube series, where we dive deep into mastering testing techniques for ASP.NET Core applications.
 
+ You can find all the videos on my [YouTube channel](https://www.youtube.com/watch?v=58YdbwB_HXA&list=PLOPR7FRvsDZZp1cr3Xs03KhMXPDFh904W)
+
 ## About the Series 📚
 
 This comprehensive series is designed to equip you with the essential skills to master testing in ASP.NET Core. Whether you're a beginner just starting out or an experienced developer seeking to refine your testing practices, this series has something for you.
@@ -82,7 +84,7 @@ A: The code in this project is written in **C#**.
 A: You should use the most recent stable release. If there is a specific version that you need, it will be mentioned in the video.
 
 **Q: Where can I find the videos?**
-A: You can find all the videos on my [YouTube channel](YOUR_YOUTUBE_LINK_HERE).
+A: You can find all the videos on my [YouTube channel](https://www.youtube.com/watch?v=58YdbwB_HXA&list=PLOPR7FRvsDZZp1cr3Xs03KhMXPDFh904W).
 
 **Q: How can I get help with the code?**
 A: The best way to ask for help is by opening an issue in this repository. You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/isaiah-clifford-opoku/) or [Twitter](https://x.com/Clifftech_Dev).
