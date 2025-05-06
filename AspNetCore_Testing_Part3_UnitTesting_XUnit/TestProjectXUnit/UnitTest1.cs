@@ -22,13 +22,9 @@ namespace TestProjectXUnit
             int b = 10;
 
             int expected = 15; //   When we add the a and be we get the expected 
-
-
             // Act 
 
             int result = _calculator.AddTwoNumbers(a, b);
-
-
             // Assert 
             result.Should().Be(expected);
             result.Should().BePositive();
@@ -52,7 +48,6 @@ namespace TestProjectXUnit
             result.Should().BeLessThan(0);
 
         }
-
 
         [Fact]
 
